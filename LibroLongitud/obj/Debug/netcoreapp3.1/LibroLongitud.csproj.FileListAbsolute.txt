@@ -1,0 +1,13 @@
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.exe
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.deps.json
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.runtimeconfig.json
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.runtimeconfig.dev.json
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.dll
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\bin\Debug\netcoreapp3.1\LibroLongitud.pdb
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.AssemblyInfoInputs.cache
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.AssemblyInfo.cs
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.csproj.CoreCompileInputs.cache
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.dll
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.pdb
+C:\Users\UserGPC\source\repos\LibroLongitud\LibroLongitud\obj\Debug\netcoreapp3.1\LibroLongitud.genruntimeconfig.cache

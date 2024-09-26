@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "LibroLongitud/1.0.0": {
+        "runtime": {
+          "LibroLongitud.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LibroLongitud/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

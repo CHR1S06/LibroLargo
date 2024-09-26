@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\UserGPC\\source\\repos\\LibroLongitud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1D0F5A-1FFC-43A5-BB95-8C7182859FB9}|LibroLongitud\\LibroLongitud.csproj|c:\\users\\usergpc\\source\\repos\\librolongitud\\librolongitud\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1D0F5A-1FFC-43A5-BB95-8C7182859FB9}|LibroLongitud\\LibroLongitud.csproj|solutionrelative:librolongitud\\clases\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D1D0F5A-1FFC-43A5-BB95-8C7182859FB9}|LibroLongitud\\LibroLongitud.csproj|c:\\users\\usergpc\\source\\repos\\librolongitud\\librolongitud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D1D0F5A-1FFC-43A5-BB95-8C7182859FB9}|LibroLongitud\\LibroLongitud.csproj|solutionrelative:librolongitud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\LibroLongitud\\LibroLongitud\\Clases\\Libro.cs",
+              "RelativeDocumentMoniker": "LibroLongitud\\Clases\\Libro.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\LibroLongitud\\LibroLongitud\\Clases\\Libro.cs",
+              "RelativeToolTip": "LibroLongitud\\Clases\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:31:22.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UserGPC\\source\\repos\\LibroLongitud\\LibroLongitud\\Program.cs",
+              "RelativeDocumentMoniker": "LibroLongitud\\Program.cs",
+              "ToolTip": "C:\\Users\\UserGPC\\source\\repos\\LibroLongitud\\LibroLongitud\\Program.cs",
+              "RelativeToolTip": "LibroLongitud\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T01:27:15.511Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
